@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Daniel Egidio 🖐️
 Apaixonado por tecnologia e pela arte da criação de softwares, para mudar a vida das pessoas através da programação.
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](api.whatsapp.com/send?1=pt_BR&phone=5583999083810)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](api.whatsapp.com/send?1=pt_BR&phone=83999083810)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/danielegidio)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-egidio-b6b8a0181/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielEgiidio)
