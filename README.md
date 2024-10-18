@@ -1,4 +1,4 @@
-## Daniel Egídio | Software Engineer 🌐📱**
+## Daniel Egídio | Software Engineer 🌐📱
 
 Node.js | Nest | Java | Next.js | React | Vue | Nuxt | React Native | Postegress | AWS 
 
