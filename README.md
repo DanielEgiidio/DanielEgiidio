@@ -66,7 +66,21 @@ Transformando ideias em soluções digitais impactantes. Expertise em desenvolvi
 - **Authentication**: OAuth 2.0. 
 - **Real-Time Communication**: WebSockets.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEgiidio&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/DanielEgiidio/github-readme-stats)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielEgiidio&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielEgiidio&theme=dracula)
+ | ----------- | ----------- |
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielEgiidio&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielEgiidio&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+ 
+ <div align="center justifyCenter" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,postman,styledcomponents,vercel,vite,mongodb,postgres,java,reactnative" />
+</a>
+  <br />
+  </div>
+
+
 
 Obrigado pela visita ao meu portfolio!
 
