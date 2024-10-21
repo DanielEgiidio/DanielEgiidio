@@ -48,7 +48,7 @@ Transformando ideias em soluções digitais impactantes. Expertise em desenvolvi
 - **Tecnologias Mobile**: React Native, Expo, Firebase, TypeScript , TailwindCSS, Native Base, Phosphor Icons.
 - **Destaque**: É uma solução mobile que permite funcionários solicitarem suporte técnico para seus equipamentos de forma rápida e eficiente.
 
-#### [Gamer Store](https://github.com/DanielEgiidio/rocket-help)  💬📱📞
+#### [Gamer Store](https://gamer-store-smoky.vercel.app/)  💬📱📞
 
 - **Descrição**: Uma loja virtual de games moderna e escalável, construída com Next.js, Sanity CMS e Stripe.
 - **Tecnologias Front-end**: React, Nextjs, Stripe, React Icons, Context API , TailwindCSS, Stripe, React Icons.
