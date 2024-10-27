@@ -6,7 +6,7 @@ Transformando ideias em soluções digitais impactantes. Expertise em desenvolvi
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue)](https://daniel-egidio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue)](https://portfolio-daniel-current.vercel.app/)
 
 ### **Projetos em destaque**
 
